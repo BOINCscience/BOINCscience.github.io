@@ -37,7 +37,7 @@
     "uniqCompNum": 13,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/boinc256-128x123.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126812825-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126812825-1');\r\n</script>",
     "siteUrl": "undefined"
@@ -46,8 +46,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "BOINC science",
+        "meta_descr": "BOINC lets you help cutting-edge science research using your computer. A platform for high-throughput computing on a large scale (thousands or millions of computers).",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
