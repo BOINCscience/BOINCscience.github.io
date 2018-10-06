@@ -1,2 +1,1 @@
-# BOINCscience.github.io
-GitHub Pages
+# Repository for boinc.science
